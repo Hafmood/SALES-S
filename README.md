@@ -14,4 +14,5 @@ Drop a like if you found this post helpful! 👍
 Follow Ram Maheshwari ♾️ for more💎 
 
 hashtag#html hashtag#css hashtag#javascript hashtag#100daysofcode hashtag#webdevelopment hashtag#programming
-![Uploading Screenshot (2).png…]()
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/012e07e5-f1f0-4a36-bdfd-93ff6f79c536" />
+HCCHG
